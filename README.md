@@ -1,14 +1,14 @@
 <h1>Hi, I'm Ali!  Passionate Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Azure /Cloud Cybersecuirty Projects:</h2>
-
+https://github.com/alishjon77/Azure-SOC
 
 <h2> 🤳 Connect with me:</h2>
 
 
 
 
-[linkedin]: [www.linkedin.com/in/alisher-anvarov/)
+[www.linkedin.com/in/alisher-anvarov/)
 
 
 
